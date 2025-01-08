@@ -22,7 +22,7 @@
 - **Ratings**: Restaurants with higher reviews tend to offer a better cost-value ratio.
 
 ## 🖥️ Power BI Dashboard
-![Power BI Dashboard Screenshot]
+[Power BI Dashboard Screenshot]
 (![image](https://github.com/user-attachments/assets/5b58b278-218b-4b2f-8c93-364d4e05b788)
 )
 
