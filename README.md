@@ -6,6 +6,7 @@
 - Create an interactive Power BI dashboard for stakeholders.
 
 ## 📊 Key Steps
+
 1. **Data Cleaning**:
    - Handled missing values and outliers.
    - Standardized columns and merged country data.
